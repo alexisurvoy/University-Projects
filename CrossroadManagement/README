@@ -1,0 +1,37 @@
+/*******************************************
+* 									                *
+*	    Carrefour Intelligent v. 0.1        *
+*	    	   Projet de LO41                 *
+*									                *
+* 	Auteurs : Ahmed-Khalil Jerbi GI01       *
+*            Alexis Urvoy       GI01       *
+*										             *
+*   Distribué sous licence GPL3            *
+*   http://org.rodage.com/gpl-3.0.fr.html  *
+*										             *
+********************************************/
+
+1) Tout le code se situe dans le fichier main.c
+   La commande pour compiler ce fichier est : 
+   __________________________________________
+   gcc -o main main.c -lpthread
+   __________________________________________
+   
+   //Attention ! La première compilation à tendance à bugger. Dans ce cas, relancer la compilation une seconde fois.
+   
+2) Une fois compilé, la commande pour lancer le programme est :
+   ______________________________
+   ./main <nbVoitures>
+   ______________________________
+   ou "<nbVoitures>" est un entier et représente le nombre de voitures qui vont s'engager sur le carrefour
+   
+3) Featuring :
+	- communication entre échangeurs
+	- communication serveur <---> échangeurs
+	- accès à une mémoire partagée protégée par sémaphore
+	- gestion des véhicules prioritaires
+	
+4) Améliorations restantes à effectuer
+	- gestion d'un nombre maximal de voitures sur une route
+	- développement d'une interface graphique
+	- séparation de chaques voies en trois routes : aller a gauche, aller tout droit, aller a droite	   
