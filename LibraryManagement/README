@@ -1,0 +1,17 @@
+Identifiant pour tester l'application
+
+Emprunteur :
+
+	login :	mot de passe:
+	pierre	invite
+	Lucas	invite
+
+Bibliothecaire :
+
+	login :	mot de passe:\
+	Alexis	alexis\
+
+
+ATTENTION : Pour que le programme enregistre les modifications, il faut se deconnecter et ensuite clicker sur le bouton "quitter". L'appui sur ce bouton enregistre en effet les tables de haschage dans les fichier XML.
+
+Le lancement du jar via le terminal pose des problemes. Il faut le lancer en double-cliquant dessus.

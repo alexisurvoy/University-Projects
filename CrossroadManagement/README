@@ -1,14 +1,14 @@
 /*******************************************
-* 									                *
-*	    Carrefour Intelligent v. 0.1        *
-*	    	   Projet de LO41                 *
-*									                *
-* 	Auteurs : Ahmed-Khalil Jerbi GI01       *
+* 									       *
+*	    Carrefour Intelligent v. 0.1       *
+*	    	   Projet de LO41              *
+*									       *
+* 	Auteurs : Ahmed-Khalil Jerbi GI01      *
 *            Alexis Urvoy       GI01       *
-*										             *
+*										   *
 *   Distribué sous licence GPL3            *
 *   http://org.rodage.com/gpl-3.0.fr.html  *
-*										             *
+*										   *
 ********************************************/
 
 1) Tout le code se situe dans le fichier main.c
