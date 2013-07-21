@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<utilisateurs>
+  <Emprunteur>
+    <id>08</id>
+    <login>testB</login>
+    <nom>Picot</nom>
+    <prenom>Mathieu</prenom>
+    <mdp>a94a8fe5ccb19ba61c4c0873d391e987982fbbd3</mdp>
+    <mail>mat@hotmail.fr</mail>
+    <nbEmpruntRestant>5</nbEmpruntRestant>
+  </Emprunteur>
+  <Emprunteur>
+    <id>04</id>
+    <login>pierre</login>
+    <nom>montez</nom>
+    <prenom>pierre</prenom>
+    <mdp>f52bc44a34340cbf4c1aae1eb32e351160858b0d</mdp>
+    <mail>pam@lo43.utbm.fr</mail>
+    <nbEmpruntRestant>1</nbEmpruntRestant>
+  </Emprunteur>
+  <Emprunteur>
+    <id>07</id>
+    <login>testE</login>
+    <nom>Dupont</nom>
+    <prenom>Alexandre</prenom>
+    <mdp>a94a8fe5ccb19ba61c4c0873d391e987982fbbd3</mdp>
+    <mail>alex@hotmail.fr</mail>
+    <nbEmpruntRestant>5</nbEmpruntRestant>
+  </Emprunteur>
+  <Emprunteur>
+    <id>01</id>
+    <login>Lucas</login>
+    <nom>Nom</nom>
+    <prenom>Lucas</prenom>
+    <mdp>f52bc44a34340cbf4c1aae1eb32e351160858b0d</mdp>
+    <mail>lucas@lo43.utbm.fr</mail>
+    <nbEmpruntRestant>0</nbEmpruntRestant>
+  </Emprunteur>
+  <Bibliothecaire>
+    <id>03</id>
+    <login>Alexis</login>
+    <nom>Urvoy</nom>
+    <prenom>Alexis</prenom>
+    <mdp>37ac5e111a9b2f779e373f78efa4f7678b93feb1</mdp>
+    <mail>lucas@lo43.utbm.fr</mail>
+  </Bibliothecaire>
+</utilisateurs>
+

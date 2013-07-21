@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Emprunts>
+  <Emprunt>
+    <idEmprunt>pierre06</idEmprunt>
+    <dateEmprunt>19/5/2011</dateEmprunt>
+    <idEmprunteur>04</idEmprunteur>
+    <idDocument>06</idDocument>
+  </Emprunt>
+  <Emprunt>
+    <idEmprunt>pierre14</idEmprunt>
+    <dateEmprunt>19/5/2011</dateEmprunt>
+    <idEmprunteur>04</idEmprunteur>
+    <idDocument>14</idDocument>
+  </Emprunt>
+  <Emprunt>
+    <idEmprunt>pierre07</idEmprunt>
+    <dateEmprunt>19/5/2011</dateEmprunt>
+    <idEmprunteur>04</idEmprunteur>
+    <idDocument>07</idDocument>
+  </Emprunt>
+  <Emprunt>
+    <idEmprunt>pierre17</idEmprunt>
+    <dateEmprunt>19/5/2011</dateEmprunt>
+    <idEmprunteur>04</idEmprunteur>
+    <idDocument>17</idDocument>
+  </Emprunt>
+</Emprunts>
+

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+  <cd>
+    <ID>08</ID>
+    <titre>Alive</titre>
+    <categorie>cd</categorie>
+    <dateEdition>2010</dateEdition>
+    <dateArrivee>12/12/2010</dateArrivee>
+    <nbExemplaire>4</nbExemplaire>
+    <dateDispo>12/12/2010</dateDispo>
+    <artiste>Daft Punk</artiste>
+    <nbPistes>23</nbPistes>
+    <type>Album</type>
+    <genre>Electro</genre>
+  </cd>
+  <Journal>
+    <ID>09</ID>
+    <titre>Le monde n°1524</titre>
+    <categorie>journal</categorie>
+    <dateEdition>15/12/2010</dateEdition>
+    <dateArrivee>15/12/2010</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>15/12/2010</dateDispo>
+    <type>Information</type>
+    <freq>Hebdomadaire</freq>
+    <editeur>La Vie-Le Monde</editeur>
+  </Journal>
+  <Magazine>
+    <ID>17</ID>
+    <titre>Science et vie n°00001</titre>
+    <categorie>magazine</categorie>
+    <dateEdition>1/10/2010</dateEdition>
+    <dateArrivee>1/10/2010</dateArrivee>
+    <nbExemplaire>2</nbExemplaire>
+    <dateDispo>1/10/2010</dateDispo>
+    <theme>Science</theme>
+    <freq>Hebdomadaire</freq>
+    <editeur>Groupe Ouest-France</editeur>
+  </Magazine>
+  <Livre>
+    <ID>04</ID>
+    <titre>Le seigneur des anneaux : Les deux tours</titre>
+    <categorie>livre</categorie>
+    <dateEdition>2002</dateEdition>
+    <dateArrivee>11/11/2003</dateArrivee>
+    <nbExemplaire>4</nbExemplaire>
+    <dateDispo>11/11/2003</dateDispo>
+    <nomAuteur>Tolkien</nomAuteur>
+    <prenomAuteur>John</prenomAuteur>
+    <type>Science fiction</type>
+    <trancheAge>Adolescent</trancheAge>
+    <editeur>livre</editeur>
+  </Livre>
+  <Magazine>
+    <ID>18</ID>
+    <titre>Science et vie n°00004</titre>
+    <categorie>magazine</categorie>
+    <dateEdition>1/12/2010</dateEdition>
+    <dateArrivee>1/12/2010</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>1/12/2010</dateDispo>
+    <theme>Science</theme>
+    <freq>Hebdomadaire</freq>
+    <editeur>Groupe Ouest-France</editeur>
+  </Magazine>
+  <cd>
+    <ID>05</ID>
+    <titre>Hit2010</titre>
+    <categorie>cd</categorie>
+    <dateEdition>2010</dateEdition>
+    <dateArrivee>12/12/2010</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>12/12/2010</dateDispo>
+    <artiste>Variables</artiste>
+    <nbPistes>23</nbPistes>
+    <type>Compilation</type>
+    <genre>Electro</genre>
+  </cd>
+  <Magazine>
+    <ID>15</ID>
+    <titre>Micro Hebdo du 12/11/2009</titre>
+    <categorie>magazine</categorie>
+    <dateEdition>12/11/2009</dateEdition>
+    <dateArrivee>12/11/2009</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>12/11/2009</dateDispo>
+    <theme>Informatique</theme>
+    <freq>Hebdomadaire</freq>
+    <editeur>Hachette Filipacchi Médias</editeur>
+  </Magazine>
+  <cd>
+    <ID>06</ID>
+    <titre>The Fame</titre>
+    <categorie>cd</categorie>
+    <dateEdition>2009</dateEdition>
+    <dateArrivee>12/12/2010</dateArrivee>
+    <nbExemplaire>0</nbExemplaire>
+    <dateDispo>12/12/2010</dateDispo>
+    <artiste>Lady Gaga</artiste>
+    <nbPistes>12</nbPistes>
+    <type>Album</type>
+    <genre>Popmusic</genre>
+  </cd>
+  <Magazine>
+    <ID>16</ID>
+    <titre>Micro Hebdo du 13/11/2009</titre>
+    <categorie>magazine</categorie>
+    <dateEdition>13/11/2009</dateEdition>
+    <dateArrivee>13/11/2009</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>13/11/2009</dateDispo>
+    <theme>Informatique</theme>
+    <freq>Hebdomadaire</freq>
+    <editeur>Hachette Filipacchi Médias</editeur>
+  </Magazine>
+  <cd>
+    <ID>07</ID>
+    <titre>Still Dre</titre>
+    <categorie>cd</categorie>
+    <dateEdition>2008</dateEdition>
+    <dateArrivee>12/12/2010</dateArrivee>
+    <nbExemplaire>0</nbExemplaire>
+    <dateDispo>12/12/2010</dateDispo>
+    <artiste>Dr Dre</artiste>
+    <nbPistes>3</nbPistes>
+    <type>Single</type>
+    <genre>Rap</genre>
+  </cd>
+  <Journal>
+    <ID>13</ID>
+    <titre>La depeche du 21/12/2008</titre>
+    <categorie>journal</categorie>
+    <dateEdition>21/12/2008</dateEdition>
+    <dateArrivee>21/12/2008</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>21/12/2008</dateDispo>
+    <type>Informations</type>
+    <freq>Quotidien</freq>
+    <editeur>Hachette Filipacchi Médias</editeur>
+  </Journal>
+  <Magazine>
+    <ID>14</ID>
+    <titre>Micro Hebdo du 11/11/2009</titre>
+    <categorie>magazine</categorie>
+    <dateEdition>11/11/2009</dateEdition>
+    <dateArrivee>11/11/2009</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>11/11/2009</dateDispo>
+    <theme>Informatique</theme>
+    <freq>Hebdomadaire</freq>
+    <editeur>Hachette Filipacchi Médias</editeur>
+  </Magazine>
+  <Livre>
+    <ID>01</ID>
+    <titre>20000 Lieues sous les mers</titre>
+    <categorie>livre</categorie>
+    <dateEdition>2010</dateEdition>
+    <dateArrivee>11/12/2010</dateArrivee>
+    <nbExemplaire>3</nbExemplaire>
+    <dateDispo>11/12/2010</dateDispo>
+    <nomAuteur>Vernes</nomAuteur>
+    <prenomAuteur>Jules</prenomAuteur>
+    <type>Aventure</type>
+    <trancheAge>Tous publics</trancheAge>
+    <editeur>Hachette</editeur>
+  </Livre>
+  <Livre>
+    <ID>02</ID>
+    <titre>Meutre à MontMartre</titre>
+    <categorie>livre</categorie>
+    <dateEdition>1850</dateEdition>
+    <dateArrivee>12/1/2009</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>12/1/2009</dateDispo>
+    <nomAuteur>Christie</nomAuteur>
+    <prenomAuteur>Agatha</prenomAuteur>
+    <type>Policier</type>
+    <trancheAge>Tous publics</trancheAge>
+    <editeur>livre</editeur>
+  </Livre>
+  <Journal>
+    <ID>11</ID>
+    <titre>La croix du 15/04/2011</titre>
+    <categorie>journal</categorie>
+    <dateEdition>15/04/2011</dateEdition>
+    <dateArrivee>15/4/2011</dateArrivee>
+    <nbExemplaire>2</nbExemplaire>
+    <dateDispo>15/4/2011</dateDispo>
+    <type>Religieux</type>
+    <freq>Mensuel</freq>
+    <editeur>Bayard presse</editeur>
+  </Journal>
+  <Livre>
+    <ID>03</ID>
+    <titre>Harry Potter à l'école des sorciers</titre>
+    <categorie>livre</categorie>
+    <dateEdition>2001</dateEdition>
+    <dateArrivee>11/11/2001</dateArrivee>
+    <nbExemplaire>2</nbExemplaire>
+    <dateDispo>11/11/2001</dateDispo>
+    <nomAuteur>Rowling</nomAuteur>
+    <prenomAuteur>Joanne</prenomAuteur>
+    <type>Science fiction</type>
+    <trancheAge>Tous publics</trancheAge>
+    <editeur>livre</editeur>
+  </Livre>
+  <Journal>
+    <ID>12</ID>
+    <titre>Le petit quotidien du 12/12/2008</titre>
+    <categorie>journal</categorie>
+    <dateEdition>12/12/2008</dateEdition>
+    <dateArrivee>12/12/2008</dateArrivee>
+    <nbExemplaire>3</nbExemplaire>
+    <dateDispo>12/12/2008</dateDispo>
+    <type>Informations</type>
+    <freq>Quotidien</freq>
+    <editeur>Hachette Filipacchi Médias</editeur>
+  </Journal>
+  <Journal>
+    <ID>10</ID>
+    <titre>Le canard enchainé du 12/02/2010</titre>
+    <categorie>journal</categorie>
+    <dateEdition>12/02/2010</dateEdition>
+    <dateArrivee>12/2/2010</dateArrivee>
+    <nbExemplaire>1</nbExemplaire>
+    <dateDispo>12/2/2010</dateDispo>
+    <type>Politique</type>
+    <freq>Journalier</freq>
+    <editeur>Socpresse</editeur>
+  </Journal>
+</documents>
+
